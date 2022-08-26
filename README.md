@@ -1,2 +1,2 @@
-# hello_world
-Hello World Open Strict
+# hello_world as edited
+Hello World Open Strict as edited
